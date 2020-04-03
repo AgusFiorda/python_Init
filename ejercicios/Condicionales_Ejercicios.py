@@ -19,4 +19,4 @@ elif op=="r":
     n2=int(input("Escriba el segundo numero: "))
     res=n1-n2
     print(f"El resultado es: [{res}]")
-elif op=="m"
+
