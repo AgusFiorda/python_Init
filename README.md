@@ -4,3 +4,6 @@
 
 ### Project structure 
 * ejercicios: contains the exercises from tutorial.
+
+## DB
+![Alt Figure 3](./doc/color_db_model.svg)
