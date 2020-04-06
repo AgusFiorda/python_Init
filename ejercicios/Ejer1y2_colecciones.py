@@ -35,3 +35,4 @@ print(f"-Elementos que aparece en la primera lista pero no en la segunda {lista}
 c=conjuntob- conjuntoa
 lista=list(c)
 print(f"-Elementos que aparece en la primera lista pero no en la segunda {lista}")
+
