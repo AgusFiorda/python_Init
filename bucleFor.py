@@ -24,3 +24,10 @@ coleccion="Alejandro"
 for i in coleccion:
     # print(f"{i}")#recorre caracter por caracter
     print(f"{i}",end="") #lo imprime de corrido
+print("")
+print("RANGE")
+#range
+for i in range(5):#crea un array de "n" elementos
+    print({i})
+
+"""range(5,50,3) """#ahi le decimos que vaya del numero 5, al 50 y de 3 en 3
